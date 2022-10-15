@@ -4,12 +4,12 @@ Necessary steps to pass cloud engineer certification
 
 
 **Question Pattern**
-Calculator
-VPN questions.
-Cloud storage.
-Scalability and load balancing
-Porting data to 
-Server Availability
-Cost optimization
-Probable questions set
+1. Calculator
+2. VPN questions.
+3. Cloud storage.
+4. Scalability and load balancing
+5. Porting data to 
+6. Server Availability
+7. Cost optimization
+8. Probable questions set
 
