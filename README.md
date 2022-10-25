@@ -21,3 +21,6 @@ Book a slot 1 month ahead for scheduling the exam .
 
 Popular cheatsheet
 https://tutorialsdojo.com/google-cloud-platform-gcp-cheat-sheets/
+
+Quick Overview of all basic skills with good visualization.
+https://k21academy.com/google-cloud/google-associate-cloud-engineer-step-by-step-hands-on/
