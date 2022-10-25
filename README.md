@@ -13,3 +13,5 @@ Necessary steps to pass cloud engineer certification
 7. Cost optimization
 8. Probable questions set
 
+Popular cheatsheet
+https://tutorialsdojo.com/google-cloud-platform-gcp-cheat-sheets/
