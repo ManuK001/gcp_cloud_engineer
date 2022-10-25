@@ -13,5 +13,11 @@ Necessary steps to pass cloud engineer certification
 7. Cost optimization
 8. Probable questions set
 
+Deploy 2-3 projects in GCP to get enough exposure
+
+Best way to pass the exam is to map your qwiklab with cheatsheet and check your accuracy periodically through mock tests.
+
+Book a slot 1 month ahead for scheduling the exam .
+
 Popular cheatsheet
 https://tutorialsdojo.com/google-cloud-platform-gcp-cheat-sheets/
