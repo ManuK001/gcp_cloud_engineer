@@ -19,8 +19,13 @@ Best way to pass the exam is to map your qwiklab with cheatsheet and check your 
 
 Book a slot 1 month ahead for scheduling the exam .
 
-Popular cheatsheet
+**Popular cheatsheet**
 https://tutorialsdojo.com/google-cloud-platform-gcp-cheat-sheets/
 
 Quick Overview of all basic skills with good visualization.
 https://k21academy.com/google-cloud/google-associate-cloud-engineer-step-by-step-hands-on/
+**
+Tricks to complete Qwiklabs. **
+Dedicate one hours of day (Either in lunch or morning ) to go through youtube link.
+Commands to complete GCP labs  for reference can be found here . 
+https://www.courseintern.com/30-days-of-google-cloud-program/
